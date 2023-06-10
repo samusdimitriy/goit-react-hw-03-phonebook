@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samusdimitriy.github.io/goit-react-hw-02-phonebook/",
+  "homepage": "https://samusdimitriy.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
